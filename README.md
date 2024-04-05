@@ -19,7 +19,7 @@ Download the edited images.
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/photo-editor-app.git
+git clone https://github.com/MoARABY/Photo-Editor-JS.git
 Open index.html in your web browser.
 
 <h2>Usage</h2>
